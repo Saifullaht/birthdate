@@ -1,0 +1,72 @@
+
+
+body{
+    text-align: center;
+    /* background-color: rgba(0, 0, 0, 0.917); */
+    background: url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/VCHXZQKsxil3lhgr4/videoblocks-happy-birthday-candles-on-black-background_boekydasiq_thumbnail-1080_01.png) no-repeat ;
+    background-position: center;
+    /* background-size: cover; */
+    /* background-position:  100px 10px 100px 500px; */
+     /* color: white; */
+     font-family: sans-serif;
+     
+}
+h2{
+    color: white;
+    font-weight: 600;
+    font-size: 30px;
+    font-style:italic;
+
+}
+table{
+    margin: auto;
+}
+th{
+    color: white;
+    font-style: italic;
+    
+}
+input{
+    font-weight: 900;
+    /* font-style: italic; */
+    font-size: 20px;
+    border-radius: 8px;
+    text-align: center;
+    padding: 2px;
+}
+button{
+    font-weight: 600;
+    font-size: 17px;
+    padding: 5px 12px 5px 12px;
+    border-radius: 8px;
+    margin-top: 20px;
+    margin-left: 10px;
+    /* font-style: italic; */
+}
+.main{
+    display: flex;
+    /* color: white; */
+    justify-content: center;
+    margin-top: 30px;
+}
+.heading{
+    color: white;
+    font-weight: 600;
+
+    font-size: 12px;
+    font-style: oblique;
+
+}
+.timee{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    /* background-color: rgba(0, 255, 255, 0.152); */
+background-color: hsla(133, 22%, 66%, 0.788);
+    min-width: 130px;
+    /* font-style: italic; */
+    margin: 5px 5px;
+    padding: 5px;
+    border-radius: 8px;
+    /* margin-top: 20px; */
+}
